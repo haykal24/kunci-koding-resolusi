@@ -2,3 +2,5 @@ html + css
 Js
 Frameworks
 UI + UX 
+front end
+back end
